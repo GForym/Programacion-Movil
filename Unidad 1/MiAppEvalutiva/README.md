@@ -40,6 +40,31 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 
 ## Paso a Paso Instalacion
 
+**Paso 1**
+1. **Abrir Android Studio**  
+   Inicia Android Studio y selecciona:  
+   `File → New → New Project`
+
+2. **Seleccionar Plantilla**  
+   Elige la plantilla:  
+   `Empty Activity` (Actividad Vacía)
+
+3. **Configurar Proyecto**  
+   Completa los campos con estos valores exactos:
+
+   | Campo | Valor Requerido |
+   |-------|-----------------|
+   | **Name** | `MiAppEvaluativa` |
+   | **Package name** | `com.gustavo.miappevaluativa` |
+   | **Language** | `Kotlin` |
+   | **Minimum SDK** | `API 26: Android 8.0 (Oreo)` |
+
+4. **Finalizar**  
+   Haz clic en el botón:  
+   `Finish`
+
+   ⏳ Espera a que Android Studio termine de configurar el proyecto (puede tomar 1-2 minutos).
+
 
 
 
