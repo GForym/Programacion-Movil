@@ -34,12 +34,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 
    ⏳ Espera a que Android Studio termine de configurar el proyecto (puede tomar 1-2 minutos).
 
-**Paso 2: Estructura de Archivos**
 
- Directorio Principal: `app/`
-
-
-**Crear cada Achivo en la ruta que se muestra acontinucion **
 ## 📂 Paso 2: Estructura de Archivos
 
 ### Directorio Principal: `app/`
