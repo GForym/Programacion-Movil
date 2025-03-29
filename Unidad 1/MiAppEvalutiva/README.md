@@ -173,7 +173,11 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 6. Sincronizar proyecto:
    Haz clic en el botón "Sync Now" que aparece en la barra superior amarilla
    O ve a: File > Sync Project with Gradle Files
+   
+## 🚀 Paso 4: Ejecutar la Aplicación
+   Haz clic en el botón verde ▶️ "Run"
 
+   
 ## Capturas de Pantalla
 **Pantalla de Inicio** 
 
