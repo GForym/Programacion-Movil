@@ -131,6 +131,32 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
    2. Copiar TODO el contenido del archivo correspondiente en GitHub
    3. Verificar que las importaciones sean correctas
 
+## 🛠️ Paso 2.1: Configuración de Recursos XML
+
+### 📂 Estructura requerida en `res/`
+
+![image](https://github.com/user-attachments/assets/d396166c-4400-4f34-a00e-ecbedafd5d38)
+
+### 📝 Instrucciones detalladas:
+
+#### 1. Crear directorio layout (si no existe):
+1. En Android Studio:
+   - Haz clic derecho en la carpeta `res/`
+   - Selecciona: `New → Android Resource Directory`
+   - En "Resource type": elige `layout`
+   - Haz clic en `OK`
+
+#### 2. Crear archivo activity_home.xml:
+1. Haz clic derecho en la nueva carpeta `layout/`
+2. Selecciona: `New → File`
+3. Nombre: `activity_home.xml` (exactamente así)
+4.  Haz clic en `OK`
+
+#### 3. Copiar contenido desde GitHub:
+- Abre el archivo `activity_home.xml` de tu repositorio GitHub
+- Copia TODO el contenido (desde `<?xml` hasta la etiqueta de cierre)
+- Pega en el archivo recién creado en Android Studio
+
 
 ## Capturas de Pantalla
 **Pantalla de Inicio** 
