@@ -1,5 +1,5 @@
 # App de Seguimiento de Hábitos
-# //PRESENTADO POR: GUSTAVO FORY
+# PRESENTADO POR: GUSTAVO FORY
 
 Aplicación Android para registrar y monitorear el progreso de hábitos diarios, desarrollada con Jetpack Compose y arquitectura MVVM.
 
