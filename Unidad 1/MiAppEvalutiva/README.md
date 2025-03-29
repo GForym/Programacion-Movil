@@ -9,7 +9,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 
 ## Paso a Paso Instalacion
 
-**Paso 1**
+## Paso 1: Configuracion de Android Studio
 1. **Abrir Android Studio**  
    Inicia Android Studio y selecciona:  
    `File → New → New Project`
