@@ -69,7 +69,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 
  Directorio Principal: `app/`
 
-**```bash**
+
 **Crear cada Achivo en la ruta que se muestra acontinucion **
 app/
 ├── manifests/
