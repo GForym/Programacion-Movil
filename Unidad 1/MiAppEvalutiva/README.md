@@ -157,6 +157,22 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 - Copia TODO el contenido (desde `<?xml` hasta la etiqueta de cierre)
 - Pega en el archivo recién creado en Android Studio
 
+## ⚙️ Paso 3: Configuración de Dependencias Gradle
+
+### 📂 Ubicación de los archivos de configuración de las imlementaciones 
+
+![image](https://github.com/user-attachments/assets/cd248ff8-ddbf-457a-b099-8e6eed1795b6)
+
+1. Ubica el archivo `dependencies.gradle` en el repositorio
+2. Copia **todas las implementaciones** listadas en el archivo
+3. Pégalas en el bloque `dependencies` de tu `app/build.gradle.kts`
+4. Asegúrate de incluir todas las que comienzan con `implementation`
+5. Guardar cambios:
+   Windows/Linux: Ctrl + S
+   Mac: ⌘ + 
+6. Sincronizar proyecto:
+   Haz clic en el botón "Sync Now" que aparece en la barra superior amarilla
+   O ve a: File > Sync Project with Gradle Files
 
 ## Capturas de Pantalla
 **Pantalla de Inicio** 
