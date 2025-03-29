@@ -16,6 +16,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 
 
 **Pantalla de Configuración**
+
 *Permite modificar el color de fondo de la aplicación*
 
 ![image](https://github.com/user-attachments/assets/f6df1d19-7f64-4f05-84e2-35d16ac2ce5e)
