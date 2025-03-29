@@ -16,7 +16,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 
 ![image](https://github.com/user-attachments/assets/f6df1d19-7f64-4f05-84e2-35d16ac2ce5e)
 
-##Pantalla Añadir Habitos
+#Pantalla Añadir Habitos
 
 ![image](https://github.com/user-attachments/assets/b505471b-830b-4001-81e2-4ae83410a033)
 
