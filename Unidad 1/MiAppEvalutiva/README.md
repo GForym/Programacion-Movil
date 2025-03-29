@@ -43,6 +43,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 ## 📂 Paso 2: Estructura de Archivos
 
 ### Directorio Principal: `app/`
+**Crear cada archivo en la ruta que se muestra a continuación:**
 
 ![image](https://github.com/user-attachments/assets/08a49944-bfa0-4426-b695-b259ead9deb4)
 
