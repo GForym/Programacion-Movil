@@ -72,7 +72,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
          habitName: String,
          viewModel: HabitViewModel
      ) {
-         // Implementación del repositorio
+         // Copiar implementación completa desde GitHub
      }
      ```
 
@@ -81,7 +81,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
    - Estructura clave: HabitViewModel.kt
      ```kotlin
      class HabitViewModel : ViewModel() {
-         // Variables y métodos de tu implementación
+         // Variables y métodos de tu implementación Copiar implementación completa desde GitHub
      }
      ```
 
@@ -93,7 +93,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
      fun HomeScreen(
          navController: NavController
      ) {
-         // UI principal con lista de hábitos
+         // UI principal con lista de hábitos Copiar implementación completa desde GitHub
      }
      ```
 
@@ -103,7 +103,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
      ```kotlin
      class MainActivity : ComponentActivity() {
          override fun onCreate(savedInstanceState: Bundle?) {
-             // Configuración inicial
+             // Configuración inicial Copiar implementación completa desde GitHub
          }
      }
      ```
@@ -116,7 +116,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
      fun NavGraph(
          navController: NavHostController
      ) {
-         // Definición de rutas
+         // Definición de rutas Copiar implementación completa desde GitHub
      }
      ```
 
@@ -125,7 +125,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
    - Para compartir estado: SharedViewModel.kt
      ```kotlin
      class SharedViewModel : ViewModel() {
-         // Estado compartido (ej: color de fondo)
+         // Estado compartido (ej: color de fondo) Copiar implementación completa desde GitHub
      }
      ```
 
