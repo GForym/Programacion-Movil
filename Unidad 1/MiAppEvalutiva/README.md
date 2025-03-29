@@ -9,6 +9,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 
 ## Capturas de Pantalla
 **Pantalla de Inicio** 
+
 ![image](https://github.com/user-attachments/assets/1e739edf-4faa-43ee-9cf0-936c59d18943)
 
 ###Pantalla Configuracion 
