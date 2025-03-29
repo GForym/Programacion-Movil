@@ -8,10 +8,10 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 - 🎨 Personalizar color de fondo
 
 ## Capturas de Pantalla
-##Pantalla Incio
+#Pantalla Incio
 ![image](https://github.com/user-attachments/assets/1e739edf-4faa-43ee-9cf0-936c59d18943)
 
-##Pantalla Configuracion 
+#Pantalla Configuracion 
 ![image](https://github.com/user-attachments/assets/f6df1d19-7f64-4f05-84e2-35d16ac2ce5e)
 
 ##Pantalla Añadir Habitos
