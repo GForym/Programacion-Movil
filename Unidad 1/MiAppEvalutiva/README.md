@@ -7,8 +7,6 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 - 📊 Visualizar progreso diario
 - 🎨 Personalizar color de fondo
 
-
-
 ## Paso a Paso Instalacion
 
 **Paso 1**
@@ -47,7 +45,7 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 ### Directorio Principal: `app/`
 
 **Crear cada archivo en la ruta que se muestra a continuación:**
-app/
+**app/
 ├── manifests/
 │ └── AndroidManifest.xml
 │
@@ -61,7 +59,7 @@ app/
 │ ├── MainActivity.kt # Actividad principal de la app
 │ ├── NavGraph.kt # Configuración de la navegación
 │ ├── SettingsScreen.kt # Pantalla de configuración
-│ └── SharedViewModel.kt # ViewModel compartido entre pantallas
+│ └── SharedViewModel.kt # ViewModel compartido entre pantallas**
 
 ### 📝 Instrucciones para cada archivo:
 
