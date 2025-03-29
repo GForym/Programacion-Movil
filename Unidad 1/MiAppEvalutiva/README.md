@@ -73,20 +73,19 @@ Aplicación Android para registrar y monitorear el progreso de hábitos diarios,
 **Crear cada Achivo en la ruta que se muestra acontinucion **
 app/
 ├── manifests/
-│   └── AndroidManifest.xml            # Configuración esencial de la app
+│   └── AndroidManifest.xml
 │
-├── java/ (o kotlin/)
-│   └── com.gustavo.miappevaluativa/   # Paquete base
-│       ├── ui.theme/                  # Recursos de diseño (temas/colores)
-│       ├── AddHabitScreen.kt          # Pantalla añadir hábitos
-│       ├── DetailsScreen.kt           # Detalles de progreso
-│       ├── HabitViewModel.kt          # Lógica de hábitos (ViewModel)
-│       ├── HomeScreen.kt              # Pantalla principal
-│       ├── MainActivity.kt            # Punto de entrada
-│       ├── NavGraph.kt                # Configuración de navegación
-│       ├── SettingsScreen.kt          # Pantalla configuración
-│       └── SharedViewModel.kt         # Estado compartido entre pantallas
-
+├── java/
+│   └── com.gustavo.miappevaluativa/
+│       ├── ui.theme/             # Archivos relacionados con el tema de la UI
+│       ├── AddHabitScreen.kt     # Pantalla para agregar hábitos
+│       ├── DetailsScreen.kt      # Pantalla de detalles de un hábito
+│       ├── HabitViewModel.kt     # ViewModel para la gestión de hábitos
+│       ├── HomeScreen.kt         # Pantalla principal
+│       ├── MainActivity.kt       # Actividad principal de la app
+│       ├── NavGraph.kt           # Configuración de la navegación
+│       ├── SettingsScreen.kt     # Pantalla de configuración
+│       └── SharedViewModel.kt    # ViewModel compartido entre pantallas
 
 ### 📝 Instrucciones para cada archivo:
 
